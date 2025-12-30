@@ -12,5 +12,5 @@ View all students in a table
 ** Tech Stack **
 Backend: Spring Boot (Java)
 Frontend: Thymeleaf, HTML, CSS
-Database: MySQL / MongoDB
+Database: MongoDB
 Build Tool: Maven
