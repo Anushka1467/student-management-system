@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SmsApplication<SMS>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.studentManagementSystem.SMS.SmsApplication",
+            "projectName": "SMS",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
